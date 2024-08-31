@@ -2,4 +2,4 @@ Network Cameras
 
 | Name | URL | Comments |
 | ---- | --- | -------- |
-| A| http:// | No comment |
+| Tapo C720 | [http://](https://www.tapo.com/us/product/smart-camera/tapo-c720/) | floodlight |
